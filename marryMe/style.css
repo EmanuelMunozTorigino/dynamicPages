@@ -93,4 +93,5 @@ img {
     margin-top: 20px;
     transition: top 0.5, left 0.5s;
     color: #fff;
+    z-index: 9999;
 }
