@@ -17,6 +17,8 @@ yes.addEventListener("click", () => {
   article.appendChild(img);
   article.appendChild(h1);
   saidYes.appendChild(article);
+
+  target.style.display = none;
 });
 
 function moveTarget() {
